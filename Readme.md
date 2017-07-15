@@ -1,0 +1,1 @@
+# This is a library which helps user to open code of any class or a function of a module in text editor for a quicklook of how code is written
